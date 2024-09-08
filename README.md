@@ -1,1 +1,1 @@
-The data used are randomly generated data.
+# The data in the sql files are randomly generated.
